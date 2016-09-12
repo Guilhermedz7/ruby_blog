@@ -1,3 +1,4 @@
+require "sinatra"
 require "yaml"
 require "securerandom"       # sem ./ porque não é de uma class existente no meu rub_blog
 require "./models/database"
@@ -7,6 +8,22 @@ require "./models/post"
 Author.load
 Post.load
 
-Post.all.each do |post|       # To iterate on a Array we have the each method , which calls the code block associated to each of your items , passing the item as a parameter to the block:
-  puts "#{post}"
+get "/" do
+  @posts = Post.all
+  erb :index
+end
+
+get "/new" do
+  @post = Post.new
+  erb :new
+end
+
+get "/:id" do 
+  @post = Post.find(params[:id])
+  erb :post
+end
+
+post "/" do
+  @post = Post.create(params[:post])
+  redirect to("/#{@post.id}")
 end

@@ -1,0 +1,35 @@
+---
+- !ruby/object:Post
+  author_id: 117eaa127134761e815d6a38a9a5471f
+  date: 2016-09-12 18:09:58.821907000 -03:00
+  title: Branca de neve
+  review: Este livro tratasse da história de branca de neve e os 7 anoes
+  article: Já na floresta, Branca de Neve conheceu alguns animais, os quais se tornaram
+    seus amigos. Também encontrou uma pequenina casa e bateu a sua porta. Como ninguém
+    respondeu e a porta não estava fechada à chave, entrou. Era uma casa muito pequena,
+    que tinha sete caminhas, todas muito pequeninas, assim como as cadeiras, a mesa
+    e tudo o mais que se encontrava na casa. Também estava muito suja e desarrumada,
+    e Branca de Neve decidiu arrumá-la. No fim, como estava muito cansada, deitou-se
+    nas pequenas camas, que colocou todas juntas, e adormeceu.
+  id: 6ab62ccd3b70b42fb986223d7a8ec618
+- !ruby/object:Post
+  author_id: 14f27f481440b0d027b97a1804a71771
+  date: 2016-09-12 18:09:58.821907000 -03:00
+  title: João e Maria
+  review: Este livro conta a historia de duas crianção que se perdem na floresta
+  article: Esperou que os pais estivessem dormindo, saiu da cabana, catou um punhado
+    de pedrinhas brancas que brilhavam ao clarão da lua e as escondeu no bolso. Depois
+    voltou para a cama.
+  id: d521a0e2c09de8ee9280554d86ee7e8d
+- !ruby/object:Post
+  author_id: 117eaa127134761e815d6a38a9a5471f
+  date: 2016-09-12 18:09:58.821907000 -03:00
+  title: João e o pé de feijão
+  review: Este livro conta a historia de um campones que tem feijões magicos
+  article: Um menino com feijões magicos planta em seu quintal quando ve nasce uma
+    arvore que ultraoassa as nuvens, ele muito curioso sobe na arvore e descobre um
+    castelo gigante, ao chegar no caltelo da de frente para um gigante que possui
+    uma galinha que bota ovos de ouro, ele rapidamente pega a galinha e a leva para
+    sua casa, ao dar falta da galinha o gigante vai atraz dele e ele corta o pé de
+    feijão, e o gigante cai e morre.
+  id: 1bf0b46a5e5100e5726e32f0e998d7bb

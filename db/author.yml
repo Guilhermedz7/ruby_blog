@@ -1,0 +1,9 @@
+---
+- !ruby/object:Author
+  name: Marcio
+  summary: Nesta edição trataremos os modelos de 2016
+  id: 117eaa127134761e815d6a38a9a5471f
+- !ruby/object:Author
+  name: Roberto
+  summary: Esta edição trataremos de carros super novos tunados
+  id: 14f27f481440b0d027b97a1804a71771
